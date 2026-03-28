@@ -44,6 +44,9 @@ Electronic components are available in different packages, such as through-hole 
 
 
 # EXPECTED OUTPUT:
+ 
+
+[Book1 edc.xlsx](https://github.com/user-attachments/files/25029693/Book1.edc.xlsx)
 
  
 # RESULT:
